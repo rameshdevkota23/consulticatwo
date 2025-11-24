@@ -1,0 +1,542 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Consulticatwo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-24 06:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.0; wp-6.8.3; php-8.1.10\n"
+"X-Domain: consulticatwo"
+
+#: patterns/attributes-one.php:192
+msgid "+85% Improvement"
+msgstr ""
+
+#: patterns/dontmiss-one.php:52
+msgid "20+"
+msgstr ""
+
+#: patterns/attributes-one.php:159
+msgid "22/7"
+msgstr ""
+
+#: patterns/attributes-one.php:89
+msgid "22/7 assistance"
+msgstr ""
+
+#: patterns/banner-one.php:87
+msgid "245%"
+msgstr ""
+
+#: patterns/dontmiss-one.php:62
+msgid "500+"
+msgstr ""
+
+#: patterns/attributes-one.php:149
+msgid "50K+"
+msgstr ""
+
+#: patterns/attributes-one.php:139
+msgid "99%"
+msgstr ""
+
+#: patterns/attributes-one.php:49
+msgid "Advanced Protection"
+msgstr ""
+
+#: patterns/features-one.php:34 patterns/features-one.php:82
+#: patterns/features-one.php:156
+msgid "Brand Identity Design"
+msgstr ""
+
+#: patterns/call-to-action-one.php:15
+msgid "Call to Action"
+msgstr ""
+
+#: patterns/sidebar.php:88
+msgid "Categories"
+msgstr ""
+
+#: patterns/banner-one.php:56
+msgid "Cloud Integration"
+msgstr ""
+
+#: theme.json:1 styles/light.json:1 styles/midnight-teal.json:1
+#: styles/mossy-green.json:1 styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Asset Four"
+msgstr ""
+
+#: theme.json:1 styles/light.json:1 styles/midnight-teal.json:1
+#: styles/mossy-green.json:1 styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Assets Eight"
+msgstr ""
+
+#: theme.json:1 styles/light.json:1 styles/midnight-teal.json:1
+#: styles/mossy-green.json:1 styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Assets Eleven"
+msgstr ""
+
+#: theme.json:1 styles/light.json:1 styles/midnight-teal.json:1
+#: styles/mossy-green.json:1 styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Assets Five"
+msgstr ""
+
+#: theme.json:1 styles/light.json:1 styles/midnight-teal.json:1
+#: styles/mossy-green.json:1 styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Assets Nine"
+msgstr ""
+
+#: theme.json:1 styles/light.json:1 styles/midnight-teal.json:1
+#: styles/mossy-green.json:1 styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Assets One"
+msgstr ""
+
+#: theme.json:1 styles/light.json:1 styles/midnight-teal.json:1
+#: styles/mossy-green.json:1 styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Assets Seven"
+msgstr ""
+
+#: theme.json:1 styles/light.json:1 styles/midnight-teal.json:1
+#: styles/mossy-green.json:1 styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Assets Six"
+msgstr ""
+
+#: theme.json:1 styles/light.json:1 styles/midnight-teal.json:1
+#: styles/mossy-green.json:1 styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Assets Ten"
+msgstr ""
+
+#: theme.json:1 styles/light.json:1 styles/midnight-teal.json:1
+#: styles/mossy-green.json:1 styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Assets Three"
+msgstr ""
+
+#: theme.json:1 styles/light.json:1 styles/midnight-teal.json:1
+#: styles/mossy-green.json:1 styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Assets Two"
+msgstr ""
+
+#: theme.json:1 styles/light.json:1 styles/midnight-teal.json:1
+#: styles/mossy-green.json:1 styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: theme.json:1 styles/light.json:1 styles/midnight-teal.json:1
+#: styles/mossy-green.json:1 styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Contrast"
+msgstr ""
+
+#: theme.json:1 styles/light.json:1 styles/midnight-teal.json:1
+#: styles/mossy-green.json:1 styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json:1 styles/light.json:1 styles/midnight-teal.json:1
+#: styles/mossy-green.json:1 styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json:1 styles/light.json:1 styles/midnight-teal.json:1
+#: styles/mossy-green.json:1 styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Secondary Background"
+msgstr ""
+
+#: theme.json:1 styles/light.json:1 styles/midnight-teal.json:1
+#: styles/mossy-green.json:1 styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Table Line"
+msgstr ""
+
+#: theme.json:1 styles/light.json:1 styles/midnight-teal.json:1
+#: styles/mossy-green.json:1 styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json:1 styles/light.json:1 styles/midnight-teal.json:1
+#: styles/mossy-green.json:1 styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Theme"
+msgstr ""
+
+#: theme.json:1 styles/light.json:1 styles/midnight-teal.json:1
+#: styles/mossy-green.json:1 styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Transparent"
+msgstr ""
+
+#. Name of the theme
+msgid "Consulticatwo"
+msgstr ""
+
+#: functions.php:52
+msgid "consulticatwo"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"consulticatwo is a modern, professional, and performance-optimized child "
+"theme of Consultica, crafted especially for businesses, startups, and "
+"corporate service providers. With its sleek design, flexible block-based "
+"layouts, and intuitive customization options, it empowers you to create a "
+"stunning online presence that reflects your brand’s professionalism. Whether "
+"you run a consulting agency, financial firm, or any business-oriented "
+"website, consulticatwo delivers a clean, responsive, and SEO-friendly "
+"foundation to showcase your services and grow your client base with "
+"confidence.  Check the real demo:  https://demos.trendthemeswp."
+"com/consulticatwo"
+msgstr ""
+
+#: patterns/call-to-action-one.php:38
+msgid "Contact Us"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Custom template name"
+msgid "Archive Product"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Custom template name"
+msgid "Single Post (Sidebar on Left)"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Custom template name"
+msgid "Single Post (Sidebar on Right)"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Custom template name"
+msgid "Single Product"
+msgstr ""
+
+#: patterns/attributes-one.php:29
+msgid "Cutting-edge solution"
+msgstr ""
+
+#: patterns/features-one.php:108
+msgid "Digital Marketing"
+msgstr ""
+
+#: patterns/dontmiss-one.php:42
+msgid "Discover More"
+msgstr ""
+
+#: patterns/dontmiss-one.php:15
+msgid "DISCOVER OUR STORY"
+msgstr ""
+
+#: patterns/dontmiss-one.php:28 patterns/dontmiss-one.php:32
+#: patterns/dontmiss-one.php:36
+msgid "Excepteur sint occaecat cupidatat non proident."
+msgstr ""
+
+#: patterns/banner-one.php:34
+msgid "Experience Today"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical hard beige to white"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical hard mint to white"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical hard pewter to white"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical hard rust to white"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical hard sage to white"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical hard sandstone to white"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical soft beige to w"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical soft mint to white"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical soft pewter to white"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical soft rust to white"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical soft sage to white"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical soft sandstone to white"
+msgstr ""
+
+#: patterns/banner-one.php:91
+msgid "Growth Rate"
+msgstr ""
+
+#: patterns/dontmiss-one.php:66
+msgid "Happy Clients"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://trendthemeswp.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://trendthemeswp.com/products/consultica/"
+msgstr ""
+
+#: patterns/attributes-one.php:25
+msgid "Innovation"
+msgstr ""
+
+#: patterns/dontmiss-one.php:19
+msgid "Innovative Solutions for a Digital-First World"
+msgstr ""
+
+#: patterns/attributes-one.php:107
+msgid "Inovation Excellence"
+msgstr ""
+
+#: patterns/features-one.php:43 patterns/features-one.php:67
+#: patterns/features-one.php:91 patterns/features-one.php:117
+#: patterns/features-one.php:141 patterns/features-one.php:165
+msgid "Learn More"
+msgstr ""
+
+#: patterns/banner-one.php:23
+msgid "Let's Talk"
+msgstr ""
+
+#: patterns/attributes-one.php:69
+msgid "Lighting fast speed"
+msgstr ""
+
+#: patterns/features-one.php:132
+msgid "Mobile App Design"
+msgstr ""
+
+#: patterns/attributes-one.php:2
+msgctxt "Pattern title"
+msgid "Attributes One"
+msgstr ""
+
+#: patterns/banner-one.php:2
+msgctxt "Pattern title"
+msgid "Banner One"
+msgstr ""
+
+#: patterns/call-to-action-one.php:2
+msgctxt "Pattern title"
+msgid "Call To Action One"
+msgstr ""
+
+#: patterns/dontmiss-one.php:2
+msgctxt "Pattern title"
+msgid "Dontmiss One"
+msgstr ""
+
+#: patterns/features-one.php:2
+msgctxt "Pattern title"
+msgid "Features One"
+msgstr ""
+
+#: patterns/sidebar.php:2
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr ""
+
+#: patterns/attributes-one.php:188
+msgid "PERFORMANCE"
+msgstr ""
+
+#: patterns/attributes-one.php:65
+msgid "Performance"
+msgstr ""
+
+#: patterns/banner-one.php:46
+msgid "Premium Support"
+msgstr ""
+
+#: patterns/banner-one.php:66
+msgid "Real Analytics"
+msgstr ""
+
+#: patterns/sidebar.php:31
+msgid "Recent post"
+msgstr ""
+
+#: patterns/banner-one.php:34
+msgid "Revolutionize Your Digital"
+msgstr ""
+
+#: patterns/attributes-one.php:45
+msgid "Security"
+msgstr ""
+
+#: patterns/attributes-one.php:111 patterns/dontmiss-one.php:23
+msgid ""
+"Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim "
+"ad minim veniam, quis nostrud exercitation ullamco laboris."
+msgstr ""
+
+#: patterns/features-one.php:14
+msgid "Services"
+msgstr ""
+
+#: styles/light.json:1
+msgctxt "Style variation name"
+msgid "Light"
+msgstr ""
+
+#: styles/midnight-teal.json:1
+msgctxt "Style variation name"
+msgid "Midnight Teal"
+msgstr ""
+
+#: styles/mossy-green.json:1
+msgctxt "Style variation name"
+msgid "Mossy Green"
+msgstr ""
+
+#: styles/royal-grape.json:1
+msgctxt "Style variation name"
+msgid "Royal Grape"
+msgstr ""
+
+#: patterns/attributes-one.php:163
+msgid "SUPPORT"
+msgstr ""
+
+#: patterns/attributes-one.php:85
+msgid "support"
+msgstr ""
+
+#: patterns/sidebar.php:67
+msgid "Tags"
+msgstr ""
+
+#: patterns/call-to-action-one.php:20
+msgid "Take Business to the Next Level"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#. Author of the theme
+msgid "Trendthemeswp"
+msgstr ""
+
+#: patterns/call-to-action-one.php:32
+msgid "Try It Now"
+msgstr ""
+
+#: patterns/attributes-one.php:143
+msgid "UPTIME"
+msgstr ""
+
+#: patterns/attributes-one.php:153
+msgid "USERS"
+msgstr ""
+
+#: patterns/attributes-one.php:117 patterns/attributes-one.php:121
+#: patterns/attributes-one.php:127 patterns/attributes-one.php:131
+msgid "Ut varius tincidunt libero Curabitur"
+msgstr ""
+
+#: patterns/features-one.php:19
+msgid "Ut varius tincidunt libero. Curabitur at lacus ac velit"
+msgstr ""
+
+#: patterns/banner-one.php:38
+msgid ""
+"Ut varius tincidunt libero. Curabitur at lacus ac velit experiences that "
+"drive meaningful growth for your business. Our dedicated team combines "
+"creativity with technical excellence to deliver solutions that make a "
+"difference."
+msgstr ""
+
+#: patterns/call-to-action-one.php:25
+msgid ""
+"Ut varius tincidunt libero. Curabitur at lacus ac velit ornare lobortis. "
+"Phasellus dolor. Vestibulum ante ipsum primis in faucibus orci luctus et "
+"Vestibulum ante ipsum primis in faucibus orci luctus et"
+msgstr ""
+
+#: patterns/features-one.php:38 patterns/features-one.php:62
+#: patterns/features-one.php:86 patterns/features-one.php:112
+#: patterns/features-one.php:136 patterns/features-one.php:160
+msgid ""
+"Ut varius tincidunt libero. Curabitur at lacus ac velit velit esse cillum "
+"dolore eu fugiat nulla pariatur excepteur sint."
+msgstr ""
+
+#: patterns/features-one.php:58
+msgid "Web Development"
+msgstr ""
+
+#: patterns/dontmiss-one.php:56
+msgid "Years of Experience"
+msgstr ""
