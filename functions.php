@@ -62,7 +62,14 @@ function consulticatwo_register_pattern_category() {
 }
 add_action( 'init', 'consulticatwo_register_pattern_category');
 
-
-
+// Remove parent theme admin notice.
+add_action( 'admin_init', function () {
+    if ( isset( $GLOBALS['consultica_admin_info'] ) ) {
+        remove_action(
+            'admin_notices',
+            array( $GLOBALS['consultica_admin_info'], 'compatible_check' )
+        );
+    }
+} );
 
 

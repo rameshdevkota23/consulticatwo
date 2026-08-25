@@ -167,7 +167,7 @@
 
 <!-- wp:buttons {"style":{"spacing":{"margin":{"top":"var:preset|spacing|60"}}},"layout":{"type":"flex","verticalAlignment":"top"}} -->
 <div class="wp-block-buttons" style="margin-top:var(--wp--preset--spacing--60)"><!-- wp:button {"textColor":"base","style":{"border":{"radius":"6px"},"typography":{"fontStyle":"normal","fontWeight":"400"},"spacing":{"padding":{"left":"var:preset|spacing|40","right":"var:preset|spacing|40","top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}},"elements":{"link":{"color":{"text":"var:preset|color|base"}}}},"fontSize":"small","fontFamily":"hind"} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-base-color has-text-color has-link-color has-hind-font-family has-small-font-size has-custom-font-size wp-element-button" style="border-radius:6px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--40);font-style:normal;font-weight:400">Learn More</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-base-color has-text-color has-link-color has-hind-font-family has-small-font-size has-custom-font-size wp-element-button" style="border-radius:6px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--40);font-style:normal;font-weight:400"><?php echo esc_html__('', 'consulticatwo'); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->

@@ -2,9 +2,9 @@
 
 Contributors: Trendthemeswp
 Author: Trendthemeswp
-Requires at least: 5.9
-Tested up to: 6.8
-Requires PHP: 7.4
+Requires at least: 6.0
+Tested up to: 7.0
+Requires PHP: 7.0
 Stable tag: 1.0.0
 Version: 1.0.0
 License: GNU General Public License v2 or later
@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: editor-style, full-site-editing, right-sidebar, custom-menu, custom-logo, custom-colors, featured-images, block-patterns, sticky-post, threaded-comments
 
 == Description ==
-Consulticatwo is a modern, professional, and performance-optimized child theme of Consultica, crafted especially for businesses, startups, and corporate service providers. With its sleek design, flexible block-based layouts, and intuitive customization options, it empowers you to create a stunning online presence that reflects your brand’s professionalism. Whether you run a consulting agency, financial firm, or any business-oriented website, consulticatwo delivers a clean, responsive, and SEO-friendly foundation to showcase your services and grow your client base with confidence.  Check the real demo:  https://demos.trendthemeswp.com/consulticatwo
+ Consulticatwo is a modern, professional, and performance-optimized child theme of Consultica, Consulticatwoa is a Full Site Editing (FSE) WordPress theme created for professional business and corporate websites. It features flexible block customization, responsive layouts, and pre-designed patterns and templates for key business areas.   Check the real demo:  https://demos.trendthemeswp.com/consulticatwo.
 
 == Installation ==
 

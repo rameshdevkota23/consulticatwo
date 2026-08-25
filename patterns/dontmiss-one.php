@@ -39,7 +39,7 @@
 
 <!-- wp:buttons {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50"}}}} -->
 <div class="wp-block-buttons" style="padding-top:var(--wp--preset--spacing--50)"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button"><?php echo esc_html__('Discover More', 'consulticatwo'); ?></a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="#"><?php echo esc_html__('Discover More', 'consulticatwo'); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->
